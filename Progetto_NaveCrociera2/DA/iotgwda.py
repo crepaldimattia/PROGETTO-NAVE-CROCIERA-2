@@ -1,4 +1,3 @@
-# Data Aggregator / IoT Gateway (DA)
 # Questo programma riceve i dati dai Data Collector (DC),
 # li elabora (calcolo delle medie) e li salva su file
 
